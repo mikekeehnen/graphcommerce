@@ -1,5 +1,15 @@
 # Change Log
 
+## 4.5.2
+
+### Patch Changes
+
+- [#1385](https://github.com/graphcommerce-org/graphcommerce/pull/1385) [`8a354d1cd`](https://github.com/graphcommerce-org/graphcommerce/commit/8a354d1cd4757497ddfc9b1969a0addbc8ff616b) Thanks [@NickdeK](https://github.com/NickdeK)! - Prevent sx prop from being passed to form element
+
+- Updated dependencies [[`0e425e85e`](https://github.com/graphcommerce-org/graphcommerce/commit/0e425e85ee8fed280349317ee0440c7bceea5823)]:
+  - @graphcommerce/image@3.1.4
+  - @graphcommerce/framer-scroller@2.1.5
+
 ## 4.5.1
 
 ### Patch Changes
